@@ -1,0 +1,5 @@
+{
+  "name": "Face Attendance Pro",
+  "description": "A student attendance system using face recognition technology.",
+  "requestFramePermissions": ["camera"]
+}
